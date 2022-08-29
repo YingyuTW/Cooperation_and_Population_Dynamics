@@ -1,4 +1,4 @@
-# Cooperation_and_Population_Dynamics
+# cooperation-and-population-dynamics
 
 This repository is for open access to source codes and data for the manuscript "Cooperation and lateral forces: moving beyond bottom-up and top-down drivers of animal population dynamics".
 
